@@ -14,3 +14,5 @@ if s > p:
 print(f"\n O 1º valor é: {p}")
 print(f" O 2º valor é: {s}")
 print(f" O 3º valor é: {t}")
+
+
