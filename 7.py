@@ -10,4 +10,3 @@ if media >= 7:
 
 else:
     print(f"O aluno(a): {nome} foi reprovado(a) com média: {media:.2f}.")
-    
